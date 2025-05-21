@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AzureSchedule",
+    "value": "\"0 * * * */2 *",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobsStorage",
+    "value": "DefaultEndpointsProtocol=https;AccountName=stfuncairdsc;AccountKey=5AmSkrj9mwXAQIDqjxNA06B69R+JEni4TF7nrtBLpLKOYokG6YgScp9zMlQiLPAiGv7lZL+PykRB+AStPmx43w==;EndpointSuffix=core.windows.net",
+    "slotSetting": false
+  },
+  {
+    "name": "BLOB_CONTAINER_NAME",
+    "value": "hashem-blob-bestbuddies-content",
+    "slotSetting": false
+  },
+  {
+    "name": "BUILD_FLAGS",
+    "value": "UseExpressBuild",
+    "slotSetting": false
+  },
+  {
+    "name": "DOCKER_REGISTRY_SERVER_URL",
+    "value": "https://index.docker.io/v1",
+    "slotSetting": false
+  },
+  {
+    "name": "ENABLE_ORYX_BUILD",
+    "value": "true",
+    "slotSetting": false
+  },
+  {
+    "name": "FUNCTIONS_EXTENSION_VERSION",
+    "value": "~4",
+    "slotSetting": false
+  },
+  {
+    "name": "FUNCTIONS_WORKER_RUNTIME",
+    "value": "python",
+    "slotSetting": false
+  },
+  {
+    "name": "INDEXER_NAME",
+    "value": "webcontent-indexer",
+    "slotSetting": false
+  },
+  {
+    "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
+    "value": "1",
+    "slotSetting": false
+  },
+  {
+    "name": "SEARCH_ADMIN_KEY",
+    "value": "uyX85QWEWgIqtKADs6DMbvLIc8yN2bxqYqyXPq4UqBAzSeAwmSCG",
+    "slotSetting": false
+  },
+  {
+    "name": "SEARCH_SERVICE_NAME",
+    "value": "personalservices",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+    "value": "DefaultEndpointsProtocol=https;AccountName=stfuncairdsc;AccountKey=5AmSkrj9mwXAQIDqjxNA06B69R+JEni4TF7nrtBLpLKOYokG6YgScp9zMlQiLPAiGv7lZL+PykRB+AStPmx43w==;EndpointSuffix=core.windows.net",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTSHARE",
+    "value": "func-ai-rd-sc-0038d33",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "XDG_CACHE_HOME",
+    "value": "/tmp/.cache",
+    "slotSetting": false
+  }
+]

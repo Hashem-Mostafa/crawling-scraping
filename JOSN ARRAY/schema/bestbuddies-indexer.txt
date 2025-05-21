@@ -1,0 +1,23 @@
+{
+  "@odata.context": "https://personalservices.search.windows.net/$metadata#indexers/$entity",
+  "@odata.etag": "\"0x8DD8E3586AA431B\"",
+  "name": "bestbuddies-indexer",
+  "description": null,
+  "dataSourceName": "bestbuddies",
+  "skillsetName": null,
+  "targetIndexName": "bestbuddies-index",
+  "disabled": null,
+  "schedule": null,
+  "parameters": {
+    "batchSize": null,
+    "maxFailedItems": null,
+    "maxFailedItemsPerBatch": null,
+    "configuration": {
+      "parsingMode": "json"
+    }
+  },
+  "fieldMappings": [],
+  "outputFieldMappings": [],
+  "cache": null,
+  "encryptionKey": null
+}
